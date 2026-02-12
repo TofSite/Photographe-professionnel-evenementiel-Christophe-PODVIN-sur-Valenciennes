@@ -75,7 +75,7 @@ header li a {
 #imagePrincipale {
     padding-top: 40px;
     /* taille en hauteur de l'image */
-    background: url(./CPo_1.jpg) no-repeat fixed 50% 38%;
+    background: url(./CPo_1.jpg) no-repeat fixed 50% 33%;
     /* centrage */
     background-size: cover;
     height: 310px;
@@ -88,7 +88,7 @@ h1 {
     color: antiquewhite;
     font-size: 4em;
     /* taille des caracteres */
-    margin-top: 210px;
+    margin-top: 0px;
     text-shadow: 1px 3px 2px black;
 }
 
@@ -196,4 +196,5 @@ footer {
 #Icons a:hover {
     transform: scale(1.5);
     transition: 0.1s;
+
 }
