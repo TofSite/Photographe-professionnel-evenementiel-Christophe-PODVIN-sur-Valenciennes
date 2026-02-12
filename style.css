@@ -75,7 +75,7 @@ header li a {
 #imagePrincipale {
     padding-top: 40px;
     /* taille en hauteur de l'image */
-    background: url(./CPo_1.jpg) no-repeat fixed 50% 42%;
+    background: url(CPo_1.jpg) no-repeat fixed 50% 42%;
     /* centrage */
     background-size: cover;
     height: 400px;
@@ -198,3 +198,4 @@ footer {
     transition: 0.1s;
 
 }
+
