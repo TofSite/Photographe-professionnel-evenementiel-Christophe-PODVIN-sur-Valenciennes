@@ -159,6 +159,14 @@ footer {
     padding: 0px 0px 0px 0px;
     text-align: center;
 }
+#services {
+    background-color: #fefefe;
+    color: #fefefe;
+    font-size: 0.6em;
+    font-family: 'Times new roman', sans-serif;
+    padding: 0px 0px 0px 0px;
+    text-align: left;
+}
 
 #trait {
     height: 1.2px;
@@ -198,3 +206,4 @@ footer {
     transition: 0.1s;
 
 }
+
