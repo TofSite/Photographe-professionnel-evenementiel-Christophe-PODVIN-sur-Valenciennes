@@ -86,7 +86,7 @@ h1 {
     font-family: 'Dancing Script', cursive;
     text-align: center;
     color: antiquewhite;
-    font-size: 4em;
+    font-size: 5em;
     /* taille des caracteres */
     margin-top: 0px;
     text-shadow: 1px 3px 2px black;
@@ -114,7 +114,7 @@ h4 {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding: 10px 10%;
+    padding: 14px 3%;
 }
 
 .imagesprestations h4 {
@@ -126,7 +126,7 @@ h4 {
 }
 
 .imagesprestations img {
-    border-radius: 20px;
+    border-radius: 30px;
     box-shadow: 3px 5px 3px 1px black;
 }
 
@@ -159,9 +159,10 @@ footer {
     padding: 0px 0px 0px 0px;
     text-align: center;
 }
+
 #services {
     background-color: #fefefe;
-    color: #fefefe;
+    color: #ffffff;
     font-size: 0.6em;
     font-family: 'Times new roman', sans-serif;
     padding: 0px 0px 0px 0px;
@@ -204,6 +205,4 @@ footer {
 #Icons a:hover {
     transform: scale(1.5);
     transition: 0.1s;
-
 }
-
